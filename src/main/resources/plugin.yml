@@ -1,0 +1,6 @@
+name: MaceNotify
+version: '1.0.0'
+main: me.mace.notify.MaceNotify
+api-version: '1.21'
+author: YourName
+description: Mace Craft Notification Plugin
